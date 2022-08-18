@@ -1,0 +1,5 @@
+[user]
+    name = Jongmin Sung
+    email = jongmin.sung@roche.com
+[alias]
+    ac = !git add -A && git commit -m

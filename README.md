@@ -1,2 +1,1 @@
-# playground
-The sandbox of my projects, learning, tests, and fun.
+# playgroundThe sandbox of my projects, learning, practice, tests, knowledge and fun. Each theme is organized into their own directory with description here. ## bookscoding practice for books## codewarssolutions for codewars problems## docsdocumentations on technical tools (linux, mac, bash, git, conda, etc)## euler solutions for euler project problems## kagglecode for kaggle competitions## leetcodesolutions for leetcode problems## linkedinlinkedin learning online courses## statisticsstatistical modeling and analysis tools, e.g. bayesian inference, tensorflow-probability## udemyundemy classes## utilsutil codes with multiple use in other direcotories. 
